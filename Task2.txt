@@ -1,0 +1,17 @@
+Q1. Explain the difference between Absolute and Relative positioing?
+
+Answer -  
+
+Absolute : is another CSS technique that adjusts an element’s position relative to its parent. 
+           If no parent element is present, the document body is used as the parent. The syntax 
+           for absolute positioning is position: absolute.
+           
+           syntax : position: absolute;
+
+Relative : Relative positioning is a CSS technique that allows an element to be adjusted from 
+           its normal position. The syntax for relative positioning is position: relative;. 
+           When you set the top, right, bottom, and left properties of an element with relative 
+           positioning, it moves from its original location. However, it’s important to note 
+           that other elements on the page will not fill the gap left by the moved element.
+           
+           syntax : position: relative;
